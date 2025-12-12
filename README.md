@@ -1,2 +1,2 @@
-# New-Saree-
+# New-Saree-plain
 Embellished, solid/plan saree
